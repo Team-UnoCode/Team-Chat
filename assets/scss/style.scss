@@ -1,0 +1,125 @@
+.navbar-brand {
+  font-size: 2rem;
+}
+
+#banner {
+  .container {
+    padding-top: 120px;
+  }
+
+  h1 {
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    font-size: 3rem;
+  }
+
+  p {
+    font-size: 1.4rem;
+    color: rgba(255, 255, 255, 0.6);
+  }
+
+  img {
+    padding-bottom: 80px;
+  }
+}
+
+#features {
+  .container {
+    padding-top: 50px;
+  }
+
+  h1 {
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    font-size: 3rem;
+  }
+
+  p {
+    font-size: 1.4rem;
+    color: black;
+  }
+
+  h5 {
+    font-size: 1.8rem;
+    font-weight: 500;
+  }
+}
+
+#testimonial {
+  .card {
+    border: none;
+
+    img {
+      width: 80px;
+      height: 80px;
+      border-radius: 50%;
+    }
+
+    .name {
+      font-weight: bold;
+    }
+  }
+
+  a {
+    font-size: 1.4rem;
+  }
+}
+
+#brands {
+  .card {
+    border: none;
+  }
+}
+
+#cta {
+  h1 {
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    font-size: 3rem;
+  }
+
+  a {
+    color: white;
+    text-decoration: underline;
+  }
+}
+
+#footer {
+  .footer-head {
+    p {
+      font-weight: bold;
+    }
+  }
+
+  .footer-link {
+    color: rgba(255, 255, 255, 0.6);
+    font-size: 0.8rem;
+  }
+
+  .footer-link:hover {
+    text-decoration: none;
+    color: #28a745;
+  }
+
+  .call {
+    font-weight: 400;
+    font-size: 1rem;
+  }
+
+  span {
+    font-weight: 3000;
+    color: rgba(255, 255, 255, 0.6);
+    padding-bottom: 40px;
+  }
+
+  .col-md-3 {
+    a {
+      color: rgba(255, 255, 255, 0.6);
+    }
+
+    h5 {
+      font-weight: normal;
+      font-size: 1.1rem;
+    }
+  }
+}
